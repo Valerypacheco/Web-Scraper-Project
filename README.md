@@ -1,4 +1,5 @@
-#Overview
+##Overview
+
 This repository contains a Python script designed to scrape book prices from the website Books to Scrape. The script extracts book titles and prices, logs this information into a CSV file, and sends an email alert if any book's price drops below a specified threshold.
 
 #Key Features
